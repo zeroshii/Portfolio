@@ -1,28 +1,8 @@
-/**
- * Media Query Style Exercise: Solved;
- **/
 
- * {
-    box-sizing: border-box;
-  }
-  
-  /*
-    The background color will be #ccc
-    at browser widths above 768px
-  */
   body {
-    /* Typography */
-    font-size: 18px;
-    line-height: 27px;
-  
-    /* Visual */
     background-color: lightskyblue;
   }
-  
-  /*
-    The width of the wrapper will be 1024px
-    at browser widths above 768px
-  */
+ 
   .container {
     /* Box-model */
     width: 1024px;
@@ -38,39 +18,13 @@
       margin: auto; 
   }
 
-  .col-sm {
-      padding: 10px;
-  }
-
+  /* xs screen size */
   @media screen and (max-width: 768px) {
-   
-  
+
     .container {
       /* Box-model */
       width: 100%;
-      padding: 20px;
+      margin: auto;
     }
 } 
   
-  /* Additional Screen Sizes */
-  
-  /* Width at 320px and below */
-  @media screen and (max-width: 320px) {
-  
-  
-    .container {
-      /* Box-model */
-      width: 100%;
-      padding: 20px;
-    }
-} 
-  
-  /* Width at 168px and below */
-  @media screen and (max-width: 168px) {
-   
-    .container {
-      /* Box-model */
-      width: 100%;
-      padding: 20px;
-    }
-}
