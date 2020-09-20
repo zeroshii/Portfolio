@@ -27,10 +27,19 @@
     /* Box-model */
     width: 1024px;
     background-color: lightyellow;
+    border-radius: 10px;
+    padding: 20px;
   
     /* Positioning */
     margin: 40px auto;
-    padding: 20px;
+  }
+
+  .row {
+      margin: auto; 
+  }
+
+  .col-sm {
+      padding: 10px;
   }
 
   @media screen and (max-width: 768px) {
