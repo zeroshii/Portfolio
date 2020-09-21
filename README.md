@@ -11,7 +11,14 @@ https://getbootstrap.com/docs/4.0/getting-started/introduction/
 ```
 ## Components
 
-The following files were created: `index.html`, `portfolio.html` and `contact.html` as well as a custom CSS stylesheet `style.css`.
+The following files were created: 
+```
+https://zeroshii.github.io/Responsive-Portfolio/index.html
+https://zeroshii.github.io/Responsive-Portfolio/portfolio.html
+https://zeroshii.github.io/Responsive-Portfolio/contact.html
+
+```
+`index.html`, `portfolio.html` and `contact.html` as well as a custom CSS stylesheet `style.css`.
 
 ## Requirements
 
