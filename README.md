@@ -9,3 +9,19 @@ We will use the Bootstrap CSS Framework to create a mobile responsive portfolio.
 ```
 https://getbootstrap.com/docs/4.0/getting-started/introduction/
 ```
+## Components
+
+The following files were created: `index.html`, `portfolio.html` and `contact.html` as well as a custom CSS stylesheet `style.css`.
+
+## Requirements
+
+The portfolio site is developed with the following:
+
+* A navbar
+* A responsive layout
+* Responsive images
+* Valid and semantic HTML
+* Working links
+* Utilization of Bootstrap components and grid system
+
+In addition, personalized information must be included such as name, bio, images, and links to social media.
