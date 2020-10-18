@@ -4,7 +4,7 @@ This is an exercise of developing web applications that will render well on a va
 
 See the deployed application here: [Responsive Portfolio](https://zeroshii.github.io/Responsive-Portfolio/portfolio.html)
 
-![screenshot](https://github.com/zeroshii/Code-Refactor/blob/master/assets/screenshot.png)
+![screenshot](https://github.com/zeroshii/Responsive-Portfolio/blob/master/assets/screenshot.png)
 
 ## Getting Started
 
