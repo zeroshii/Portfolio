@@ -2,6 +2,10 @@
 
 This is an exercise of developing web applications that will render well on a variety of screen sizes and devices by adding responsive design.
 
+See the deployed application here: [Responsive Portfolio](https://zeroshii.github.io/Responsive-Portfolio/portfolio.html)
+
+![screenshot](https://github.com/zeroshii/Code-Refactor/blob/master/assets/screenshot.png)
+
 ## Getting Started
 
 We will use the Bootstrap CSS Framework to create a mobile responsive portfolio. Be sure to visit the documentation to copy-paste the stylesheet &lt;link&gt; into your &lt;head&gt;and the necessary JS &lt;script&gt;s before the closing &lt;/body&gt; tag to enable them:
@@ -11,7 +15,7 @@ https://getbootstrap.com/docs/4.0/getting-started/introduction/
 ```
 ## Components
 
-The following files including a personal CSS stylesheet were created: 
+The following HTML pages including a personal CSS stylesheet were created: 
 ```
 https://zeroshii.github.io/Responsive-Portfolio/index.html
 https://zeroshii.github.io/Responsive-Portfolio/portfolio.html
@@ -31,6 +35,11 @@ The portfolio site is developed with the following:
 
 In addition, personalized information must be included such as name, bio, images, and links to social media.
 
+## Technologies Used
+* HTML
+* CSS
+* Bootstrap
+
 ## Process
 
 Web searching, w3schools, as well as the Bootstrap website proved to be excellent resources for coding reference. 
@@ -42,5 +51,12 @@ Three section class `row`s were created under the main class `container` on port
 The img class attribute `img-fluid max-width: 100%` must be included to ensure the images are responsive. As a result, images will scale and fit accordingly to screen size. 
 
 A `form-group` containing the input fields of `text` for name, and `email`, as well as a `textarea` tag and a `submit` button were created on contact.html as per instruction.
+
+## Credit
+Developer, Garman Kwan: https://github.com/zeroshii/
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 
